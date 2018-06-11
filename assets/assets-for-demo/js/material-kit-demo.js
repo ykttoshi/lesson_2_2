@@ -14,7 +14,7 @@
  materialKitDemo = {
 
      initContactUsMap: function(){
-         var myLatlng = new google.maps.LatLng(44.433530, 26.093928);
+         var myLatlng = new google.maps.LatLng(62.0306411, 129.7402463);
          var mapOptions = {
            zoom: 14,
            center: myLatlng,
